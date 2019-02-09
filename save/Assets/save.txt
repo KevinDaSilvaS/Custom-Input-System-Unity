@@ -1,0 +1,1 @@
+{"numerogemas":10.0,"posicaocasa":{"x":1.0,"y":1.0,"z":1.0},"nome":"k"}

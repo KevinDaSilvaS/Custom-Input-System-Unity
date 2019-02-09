@@ -1,0 +1,1 @@
+{"teclaselecionada":110,"teclapulo":274,"teclamoveresquerda":0,"teclamoverdireita":0,"teclaama":0,"teclamoverbaixo":0}
